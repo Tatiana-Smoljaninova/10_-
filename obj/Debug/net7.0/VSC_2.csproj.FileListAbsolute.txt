@@ -1,0 +1,15 @@
+C:\Таня_учеба\Итоговая проверочная работа\VSC_2\bin\Debug\net7.0\VSC_2.exe
+C:\Таня_учеба\Итоговая проверочная работа\VSC_2\bin\Debug\net7.0\VSC_2.deps.json
+C:\Таня_учеба\Итоговая проверочная работа\VSC_2\bin\Debug\net7.0\VSC_2.runtimeconfig.json
+C:\Таня_учеба\Итоговая проверочная работа\VSC_2\bin\Debug\net7.0\VSC_2.dll
+C:\Таня_учеба\Итоговая проверочная работа\VSC_2\bin\Debug\net7.0\VSC_2.pdb
+C:\Таня_учеба\Итоговая проверочная работа\VSC_2\obj\Debug\net7.0\VSC_2.csproj.AssemblyReference.cache
+C:\Таня_учеба\Итоговая проверочная работа\VSC_2\obj\Debug\net7.0\VSC_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Таня_учеба\Итоговая проверочная работа\VSC_2\obj\Debug\net7.0\VSC_2.AssemblyInfoInputs.cache
+C:\Таня_учеба\Итоговая проверочная работа\VSC_2\obj\Debug\net7.0\VSC_2.AssemblyInfo.cs
+C:\Таня_учеба\Итоговая проверочная работа\VSC_2\obj\Debug\net7.0\VSC_2.csproj.CoreCompileInputs.cache
+C:\Таня_учеба\Итоговая проверочная работа\VSC_2\obj\Debug\net7.0\VSC_2.dll
+C:\Таня_учеба\Итоговая проверочная работа\VSC_2\obj\Debug\net7.0\refint\VSC_2.dll
+C:\Таня_учеба\Итоговая проверочная работа\VSC_2\obj\Debug\net7.0\VSC_2.pdb
+C:\Таня_учеба\Итоговая проверочная работа\VSC_2\obj\Debug\net7.0\VSC_2.genruntimeconfig.cache
+C:\Таня_учеба\Итоговая проверочная работа\VSC_2\obj\Debug\net7.0\ref\VSC_2.dll
